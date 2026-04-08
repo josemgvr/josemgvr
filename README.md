@@ -29,16 +29,6 @@ Me apasiona entender cómo funcionan las cosas desde dentro: estructuras de dato
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josemgvr&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemgvr&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/josemgvr)
