@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hola, soy José 👋
 
-<!--
-**josemgvr/josemgvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería Informática** en la Universidad Rey Juan Carlos (URJC), primer año.
+Me apasiona entender cómo funcionan las cosas desde dentro: estructuras de datos, algoritmos y sistemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formación
+
+- 🏫 **Grado en Ingeniería Informática** — URJC *(en curso, 1.º año)*
+- 📘 **IBM SkillsBuild** — Cursos de tecnología y habilidades digitales *(en curso)*
+
+---
+
+## 🛠️ Tecnologías que estoy usando
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat&logoColor=white)
+
+---
+
+## 📂 Proyectos destacados
+
+| Proyecto | Descripción | Tecnología |
+|---|---|---|
+| [listas-ordenadas-polinomios](https://github.com/josemgvr/listas-ordenadas-polinomios) | TAD Lista Ordenada aplicado a la representación y operaciones con polinomios | C |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josemgvr&show_icons=true&theme=default&hide_border=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemgvr&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/josemgvr)
+
+---
+
+<p align="center">
+  <i>"Aprendiendo cada día un poco más."</i>
+</p>
