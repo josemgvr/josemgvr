@@ -25,7 +25,7 @@ Me apasiona entender cómo funcionan las cosas desde dentro: estructuras de dato
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
-| | Modelado de una red aérea europea con grafo dirigido y ponderado. Consultas sobre rutas, precios, tiempos y conectividad | C |
+| [grafo-red-aerea](https://github.com/josemgvr/grafo-red-aerea) | Modelado de una red aérea europea con grafo dirigido y ponderado. Consultas sobre rutas, precios, tiempos y conectividad | C |
 | [listas-ordenadas-polinomios](https://github.com/josemgvr/listas-ordenadas-polinomios) | TAD Lista Ordenada aplicado a la representación y operaciones con polinomios | C |
 
 
