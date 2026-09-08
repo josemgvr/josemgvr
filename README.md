@@ -7,7 +7,7 @@ Me interesa el desarrollo de software, los algoritmos, las estructuras de datos 
 
 ## 🎓 Formación
 
-- 🏫 **Grado en Ingeniería Informática** — URJC *(en curso, 1.º año)*
+- 🏫 **Grado en Ingeniería Informática** — URJC *(en curso, 2.º año)*
 - 📘 **IBM SkillsBuild** — Cursos de tecnología y habilidades digitales *(en curso)*
 
 ---
