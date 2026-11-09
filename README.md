@@ -25,6 +25,26 @@ Me interesa el desarrollo de software, los algoritmos, las estructuras de datos 
 
 ## 📂 Proyectos destacados
 
+### 🎓  Plataforma Web Educativa con IA
+**React · FastAPI · PostgreSQL · Supabase · Gemini · RAG**
+
+Plataforma web educativa para la gestión de alumnos, profesores, cursos y certificados. Incluye:
+
+- Paneles adaptados según el rol del usuario.
+- Frontend desarrollado con React y Vite.
+- Backend basado en FastAPI.
+- Base de datos PostgreSQL alojada en Supabase.
+- Chatbot educativo conectado con Gemini.
+- Sistema RAG con documentación en Markdown.
+- Embeddings locales y búsqueda semántica con pgvector.
+- Acceso controlado a información de la base de datos.
+- Gestión segura de credenciales mediante variables de entorno.
+- Diseño responsive.
+
+🔗 https://github.com/josemgvr/app-web-colegio
+
+---
+
 ### 🌐 Aura Vision Pro Landing Page
 **HTML · CSS · JavaScript**
 
