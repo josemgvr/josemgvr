@@ -41,7 +41,7 @@ Plataforma web educativa para la gestión de alumnos, profesores, cursos y certi
 - Gestión segura de credenciales mediante variables de entorno.
 - Diseño responsive.
 
-🔗 https://github.com/josemgvr/app-web-colegio
+🔗 https://github.com/josemgvr/Plataforma-web-Educativa-con-IA
 
 ---
 
